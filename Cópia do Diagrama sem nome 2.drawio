@@ -75,7 +75,7 @@
         <mxCell id="K_VchCGm_uXAoo02_naL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-22" source="K_VchCGm_uXAoo02_naL-8" target="K_VchCGm_uXAoo02_naL-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K_VchCGm_uXAoo02_naL-8" value="Para cada pedido é invocado o WS&lt;br&gt;/XXXXX/" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
+        <mxCell id="K_VchCGm_uXAoo02_naL-8" value="Para cada pedido é invocado o WS&lt;br&gt;/request" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
           <mxGeometry x="830" y="54.17" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K_VchCGm_uXAoo02_naL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-22" source="K_VchCGm_uXAoo02_naL-10" target="K_VchCGm_uXAoo02_naL-12" edge="1">
@@ -185,7 +185,7 @@
         </mxCell>
         <mxCell id="C1m27JKeYHq3ZGguCctL-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.411;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="C1m27JKeYHq3ZGguCctL-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="520" as="sourcePoint" />
+            <mxPoint x="759" y="540" as="sourcePoint" />
             <mxPoint x="770" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
