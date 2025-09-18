@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.2.1">
   <diagram name="Página-1" id="aZhOI2Rf11P-X5zS5xGF">
-    <mxGraphModel dx="1418" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1293" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="M8hkXP_kOSwks7LkfX3K-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M8hkXP_kOSwks7LkfX3K-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFE91;" vertex="1" parent="1">
           <mxGeometry x="180" y="320" width="860" height="120" as="geometry" />
         </mxCell>
         <mxCell id="M8hkXP_kOSwks7LkfX3K-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="M8hkXP_kOSwks7LkfX3K-6" target="M8hkXP_kOSwks7LkfX3K-18">
@@ -60,13 +60,13 @@
         <mxCell id="M8hkXP_kOSwks7LkfX3K-15" value="Master" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="780" width="690" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M8hkXP_kOSwks7LkfX3K-18" value="Firebase INT" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="M8hkXP_kOSwks7LkfX3K-18" value="Firebase INT" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="205" y="160" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="M8hkXP_kOSwks7LkfX3K-21" value="Firebase QUA" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="M8hkXP_kOSwks7LkfX3K-21" value="Firebase QUA" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="445" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M8hkXP_kOSwks7LkfX3K-26" value="Firebase PRD" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="M8hkXP_kOSwks7LkfX3K-26" value="Firebase PRD" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="690" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M8hkXP_kOSwks7LkfX3K-35" value="feature_US" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -102,6 +102,9 @@
         </mxCell>
         <mxCell id="M8hkXP_kOSwks7LkfX3K-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.89;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="M8hkXP_kOSwks7LkfX3K-15" target="M8hkXP_kOSwks7LkfX3K-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M8hkXP_kOSwks7LkfX3K-50" value="branches" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="330" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
