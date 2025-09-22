@@ -58,7 +58,7 @@
           <mxGeometry x="690" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M8hkXP_kOSwks7LkfX3K-15" value="Master" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="775" width="690" height="60" as="geometry" />
+          <mxGeometry x="240" y="810" width="690" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M8hkXP_kOSwks7LkfX3K-18" value="Firebase INT" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="205" y="160" width="130" height="70" as="geometry" />
@@ -89,6 +89,11 @@
             <mxPoint x="540" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q2KcRwAVCcZIG1G0tkxW-3" value="Criada a partir da master&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="M8hkXP_kOSwks7LkfX3K-42">
+          <mxGeometry x="-0.218" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="M8hkXP_kOSwks7LkfX3K-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.735;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="M8hkXP_kOSwks7LkfX3K-12" target="M8hkXP_kOSwks7LkfX3K-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="500" as="sourcePoint" />
@@ -103,7 +108,7 @@
         <mxCell id="M8hkXP_kOSwks7LkfX3K-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.89;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="M8hkXP_kOSwks7LkfX3K-15" target="M8hkXP_kOSwks7LkfX3K-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q2KcRwAVCcZIG1G0tkxW-2" value="Criada a partir da master&lt;br&gt;para deployment" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="M8hkXP_kOSwks7LkfX3K-44">
+        <mxCell id="Q2KcRwAVCcZIG1G0tkxW-2" value="Criada a partir da master" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="M8hkXP_kOSwks7LkfX3K-44">
           <mxGeometry x="-0.0077" y="3" relative="1" as="geometry">
             <mxPoint x="-2" y="2" as="offset" />
           </mxGeometry>
