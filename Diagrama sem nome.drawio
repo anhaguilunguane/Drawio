@@ -103,6 +103,11 @@
         <mxCell id="M8hkXP_kOSwks7LkfX3K-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.89;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="M8hkXP_kOSwks7LkfX3K-15" target="M8hkXP_kOSwks7LkfX3K-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Q2KcRwAVCcZIG1G0tkxW-2" value="Criada a partir da master&lt;br&gt;para deployment" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="M8hkXP_kOSwks7LkfX3K-44">
+          <mxGeometry x="-0.0077" y="3" relative="1" as="geometry">
+            <mxPoint x="-2" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="M8hkXP_kOSwks7LkfX3K-50" value="branches" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="960" y="330" width="70" height="30" as="geometry" />
         </mxCell>
