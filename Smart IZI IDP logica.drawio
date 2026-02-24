@@ -79,7 +79,7 @@
         <mxCell id="VnwyHiF-fMk5cEWJENaa-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Não" vertex="1">
           <mxGeometry height="30" width="60" x="590" y="390" as="geometry" />
         </mxCell>
-        <mxCell id="VnwyHiF-fMk5cEWJENaa-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Valida mensagem para a App" vertex="1">
+        <mxCell id="VnwyHiF-fMk5cEWJENaa-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Devolver mensagem de erro vinda do IDP" vertex="1">
           <mxGeometry height="30" width="140" x="680" y="280" as="geometry" />
         </mxCell>
         <mxCell id="VnwyHiF-fMk5cEWJENaa-31" edge="1" parent="1" source="VnwyHiF-fMk5cEWJENaa-1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" target="VnwyHiF-fMk5cEWJENaa-27" value="">
